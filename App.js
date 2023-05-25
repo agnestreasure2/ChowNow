@@ -5,6 +5,8 @@ const CoverPage = () => {
   return (
     <View style={styles.container}>
       <Image
+
+      
               source={require("../assets/icons/Logo.png")}
               style={{ width: 200, height: 200, marginBottom: 20 }}
             />
